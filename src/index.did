@@ -28,5 +28,3 @@ service : () -> {
   updateGarden : (text, GardenPayload) -> (_AzleResult);
   updateGardenImage : (text, text) -> (_AzleResult);
 }
-
-zip -r Virtual_Gardening_School.zip .

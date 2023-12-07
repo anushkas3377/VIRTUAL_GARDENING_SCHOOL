@@ -1,13 +1,13 @@
 {
-    "canisters": {
-        "Virtual_Gardening_School": {
-            "type": "custom",
-            "build": "npx azle Virtual_Gardening_School",
-            "root": "src",
-            "ts": "src/index.ts",
-            "candid": "src/index.did",
-            "wasm": ".azle/Virtual_Gardening_School/Virtual_Gardening_School.wasm.gz"
-        }
-    }
+  "canisters": {
+      "Virtual_Gardening_School": {
+          "type": "custom",
+          "build": "npx azle Virtual_Gardening_School",
+          "root": "src",
+          "ts": "src/index.ts",
+          "candid": "src/index.did",
+          "wasm": ".azle/Virtual_Gardening_School/Virtual_Gardening_School.wasm.gz"
+      }
+  }
 }
 

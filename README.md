@@ -1,7 +1,8 @@
-Virtual Gardening School
+**Virtual Gardening School**
+
 Virtual Gardening School is a TypeScript web application designed to simplify the management and discovery of gardens. Users can easily perform CRUD (Create, Read, Update, Delete) operations on gardens while receiving personalized garden recommendations based on their preferences.
 
-Features
+**Features**
 
 Garden Management: Perform CRUD operations on gardens, making it easy to create, read, update, and delete garden information.
 
